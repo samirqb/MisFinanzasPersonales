@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mis Finanzas Personales</string>
+    <string name="agregar_concepto">Agregar Concepto</string>
+    <string name="hint_concepto">Gasolina...</string>
+    <string name="boton_guardar">Guardar</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
